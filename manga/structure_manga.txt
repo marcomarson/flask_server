@@ -1,0 +1,22 @@
+table manga{
+    manga_name: str
+    manga_episode: int
+    manga_timestamp: timestamp
+}
+
+table episode{
+    manga_name: str
+    episode_name: str
+    episode: int
+    link:[]
+    seen:Bool
+    valid: bool
+}
+
+table manga_websites{
+    name: str
+    valid: bool
+    link:[]
+    seen:Bool
+    structure: str
+}
