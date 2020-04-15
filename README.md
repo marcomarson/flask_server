@@ -1,6 +1,6 @@
 # Personal Website - Marco Marson
 
-Foobar is a Python flask server to do all the hard work of my projects
+This Project is a Python flask server to do all the hard work of my projects
 
 ## Installation
 
