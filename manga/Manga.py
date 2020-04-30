@@ -1,5 +1,4 @@
 import datetime
-from utils import DecimalEncoder
 import json
 from pymongo import MongoClient
 from manga.database import Database

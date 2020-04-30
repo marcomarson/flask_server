@@ -1,6 +1,6 @@
-# Personal Website - Marco Marson
+# Personal Projects - Marco Marson
 
-This Project is a Python flask server to do all the hard work of my projects
+This Project is an lambda application for all my personal projects backend that will be hosted on AWS Lambda
 
 ## Installation
 

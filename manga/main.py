@@ -5,10 +5,6 @@ from selenium.webdriver.chrome.options import Options
 
 from manga.Episode import Episode
 
-import sys
-sys.setrecursionlimit(20000)
-
-
 def identify_last_episode(last_watched, manga_name):
     page = requests.get('https://manganelo.com/manga/read_one_piece_manga_online_free4')
 

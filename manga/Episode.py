@@ -1,6 +1,5 @@
 from botocore.exceptions import ClientError
 import datetime
-from utils import DecimalEncoder
 import json
 from manga.database import Database
 
